@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>GenetousSDK</id>
+    <version>1.0.1</version>
+    <title>Genetous</title>
+    <authors>Genetous</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <!-- <icon>icon.png</icon> -->
+    <projectUrl>https://github.com/Genetous/genetousNetSDK</projectUrl>
+    <description>Genetous .Net Framwork SDK</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Genetous</copyright>
+    <tags>1.0.0</tags>
+  </metadata>
+</package>
